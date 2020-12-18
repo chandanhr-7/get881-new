@@ -7,7 +7,7 @@ public class Calc {
 	}
 	
 	public void subs(int num1,int num2) {
-		System.out.println("Difference="+(num1-num2));
+		System.out.println("Diff="+(num1-num2));
 	}
 
 }
